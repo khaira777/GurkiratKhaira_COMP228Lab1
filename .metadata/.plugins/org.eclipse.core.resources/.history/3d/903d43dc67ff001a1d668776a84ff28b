@@ -1,0 +1,10 @@
+
+public class SingerTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Singers singers=new Singers();
+		System.out.println(singers);
+	}
+
+}
